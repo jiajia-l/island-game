@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IslandWorld()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ IslandWorld,\ including\ the\ health\ bar\ a\n\ and\ its\ corresponding\ face.\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ switchWorld()
+comment2.text=\n\ Method\ that\ will\ be\ implemented\ by\ each\ of\ the\ subclasses\ to\ switch\ world.\n
+comment3.params=
+comment3.target=void\ checkHealth()
+comment3.text=\n\ Checks\ the\ player's\ health\ with\ each\ turn\ and\ updates\ the\ health\ bar\ and\ \n\ face\ to\ reflect\ number.\n
+comment4.params=
+comment4.target=void\ checkForcedMovement()
+comment4.text=\n\ Calls\ getSurface()\ from\ the\ Pengu\ class.\ If\ the\ player\ is\ standing\ on\n\ a\ moving\ platform,\ and\ nothing\ is\ blocking\ their\ path,\ this\ method\n\ will\ move\ the\ player.\n
+comment5.params=
+comment5.target=void\ checkEnemyHit()
+comment5.text=\n\ This\ method\ checks\ for\ an\ intersecting\ enemy\n\ If\ it\ finds\ either\ an\ edible\ enemy\ (good)\ or\ a\ killer\ enemy\ (bad)\n\ it\ acts\ appropriately\ -\ either\ adding\ a\ point,\ or\ killing\ the\ player\n
+comment6.params=
+comment6.target=boolean\ checkDeath()
+comment7.params=
+comment7.target=void\ endGameLose()
+comment7.text=\n\ Triggers\ the\ losing\ screen\ -\ tell\ player\ how\ many\ bees\ they\ were\ successful\n\ in\ eating.\n
+comment8.params=
+comment8.target=void\ endGameWin()
+numComments=9

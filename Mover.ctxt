@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turn()
+comment0.text=\n\ Turn\ 90\ degrees\ to\ the\ right\ (clockwise).\n
+comment1.params=points
+comment1.target=void\ setHealth(int)
+comment2.params=
+comment2.target=int\ getHealth()
+comment3.params=angle
+comment3.target=void\ turn(int)
+comment3.text=\n\ Turn\ 'angle'\ degrees\ towards\ the\ right\ (clockwise).\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\n\ Move\ a\ bit\ forward\ in\ the\ current\ direction.\n
+comment5.params=distance
+comment5.target=void\ move(double)
+comment5.text=\n\ Move\ a\ specified\ distance\ forward\ in\ the\ current\ direction.\n
+comment6.params=
+comment6.target=boolean\ atWorldEdge()
+comment6.text=\n\ Test\ if\ we\ are\ close\ to\ one\ of\ the\ edges\ of\ the\ world.\ Return\ true\ is\ we\ are.\n
+numComments=7
